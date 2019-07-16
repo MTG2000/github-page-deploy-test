@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/github-page-deploy-test/static/css/main.2cce8147.chunk.css",
+    "main.js": "/github-page-deploy-test/static/js/main.54c8cc73.chunk.js",
+    "main.js.map": "/github-page-deploy-test/static/js/main.54c8cc73.chunk.js.map",
+    "runtime~main.js": "/github-page-deploy-test/static/js/runtime~main.67e5b793.js",
+    "runtime~main.js.map": "/github-page-deploy-test/static/js/runtime~main.67e5b793.js.map",
+    "static/js/2.b41502e9.chunk.js": "/github-page-deploy-test/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/github-page-deploy-test/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/github-page-deploy-test/index.html",
+    "precache-manifest.16f8e38ca27b95e9bb6905e91277686d.js": "/github-page-deploy-test/precache-manifest.16f8e38ca27b95e9bb6905e91277686d.js",
+    "service-worker.js": "/github-page-deploy-test/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/github-page-deploy-test/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/github-page-deploy-test/static/media/logo.5d5d9eef.svg"
+  }
+}
